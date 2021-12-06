@@ -1,5 +1,6 @@
 package com.company;
 //test commit
+//the second test commit
 
 public abstract class Animal {
     private int run_distance;
